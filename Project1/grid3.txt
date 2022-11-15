@@ -1,0 +1,11 @@
+10 15
+C	I	I	U	N	X	N	N	I	V	X	D	Z	Z	E
+K	O	F	B	W	Y	N	A	U	Q	F	M	Q	L	K
+B	Z	N	R	O	S	C	O	E	K	P	I	G	U	E
+T	B	Z	I	V	Z	A	J	M	W	H	T	G	R	C
+F	T	X	Q	W	E	S	T	H	Q	H	O	Q	Z	C
+A	X	B	T	C	Q	P	S	U	W	T	Q	W	R	I
+E	H	M	W	B	G	V	R	D	K	J	W	Q	S	V
+B	X	V	I	D	D	L	X	E	G	F	R	B	W	X
+A	U	T	B	R	E	A	L	R	Y	U	O	K	Z	L
+Q	N	N	U	R	D	P	P	D	I	R	J	V	D	B
